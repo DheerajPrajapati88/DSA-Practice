@@ -1,3 +1,6 @@
+
+// This program is to find the second largest number from the array
+
 let numbers=[2,3,44,1,90,8];
 function findSecondMax(arr){
 
