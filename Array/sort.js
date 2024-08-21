@@ -8,7 +8,7 @@ function sorting(arr){
       for(let j = 0; j < arr.length; j++){
 
 
-        if(arr[j] < arr[j + 1]){
+        if(arr[j] > arr[j + 1]){
 
             let temp = arr[j]
             arr[j] = arr[j + 1]
